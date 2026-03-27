@@ -72,7 +72,7 @@ git clone https://github.com/princepatel2812-ship-it/regularisation-tutorial.git
 2. Open the Jupyter Notebook:
 
 ```
-regularisation_notebook.ipynb
+Regularisation.ipynb
 ```
 
 3. Run all cells step-by-step to observe:
